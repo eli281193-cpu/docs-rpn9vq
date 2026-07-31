@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-3qsznx.privatetalks.online/sitemap.xml
